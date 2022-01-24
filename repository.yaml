@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: L-T-K Home Assistant add-on repository
+url: 'https://github.com/l-t-k/hassio-addons'
+maintainer: l-t-k <l-t-k@l-t-k.com>
